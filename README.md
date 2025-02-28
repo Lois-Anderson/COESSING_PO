@@ -1,4 +1,5 @@
-# COESSING 2023 in Accra, Ghana
+# Physical Oceanography track materials for [COESSING](https://coessing.org/) 
+
 Akwaaba! Welcome!
-## Estuarine Physical Oceanography Group
-This repository will be populated with lecture materials and modelling exercises for the estuarine PO cohort of the 2023 Coastal Ocean Environment Summer School at The University of Ghana. Stay tuned! :)
+
+This repository contains a (growing) number of Jupyter Notebook activities written for the Coastal Ocean Environment Summer School in Nigeria and Ghana (COESSING). 
